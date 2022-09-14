@@ -12,4 +12,4 @@ const isIsomorphic = (s, t) => {
   return true;
 };
 
-console.log(isIsomorphic('paper', 'title'));
+console.log(isIsomorphic("paper", "title"));
