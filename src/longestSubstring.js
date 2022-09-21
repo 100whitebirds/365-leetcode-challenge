@@ -15,6 +15,6 @@ const lengthOfLongestSubstring = (s) => {
   return maxLen;
 };
 
-const s = "abcabcbb";
+const s = 'abcabcbb';
 
 console.log(lengthOfLongestSubstring(s));
